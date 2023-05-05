@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "104053311776",
+    "project_id": "zorro-f7c23",
+    "storage_bucket": "zorro-f7c23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104053311776:android:0e2cc1dc039b12483aaf45",
+        "android_client_info": {
+          "package_name": "com.example.zorro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104053311776-ujmv15nhsa2eee18l45f4q6ndhaj3v53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB13vY3eMUyPL3eBSTKkYzVXxbwZqsA8bo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104053311776-ujmv15nhsa2eee18l45f4q6ndhaj3v53.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
